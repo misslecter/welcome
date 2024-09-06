@@ -152,10 +152,10 @@ Whether you're interested in history, architecture, or just want to relax in a s
 ## Public transport in Prague
 
 The flat is located very close to the tram and metro stops.
-- [Ostrčilovo náměstí](https://maps.app.goo.gl/MyyCbKjSiqRr6nZf6) - 3 min walk
+- Tram stop [Ostrčilovo náměstí](https://maps.app.goo.gl/MyyCbKjSiqRr6nZf6) - 3 min walk
     - take a tram to **Výtoň** stop (3 min) to go to the Vltava river. You will find various cafes and bars there, or just a nice place to walk along the river.
     - take a tram to **Karlovo náměstí** stop (5 min) to go to the Charles square.
-- [Vyšehrad](https://maps.app.goo.gl/He7UDtvTfaG2yMZw9) - 10 min walk
+- Metro stop [Vyšehrad](https://maps.app.goo.gl/He7UDtvTfaG2yMZw9) - 10 min walk
     - take a metro to **Muzeum** stop (4 min) to go to the top part of the Wenceslas Square.
     - take a metro to **Hlavní nádraží** stop (5 min) to go to the Prague Main Railway Station.
 
