@@ -1,12 +1,23 @@
 # Welcome to our flat!
-- 
 
 - [Flat manual](#flat-manual)
-    - [Checking in](#checking-in)
-    - [Parking](#parking)
-    - [Checking out](#checking-out)
-    - [Where can I find an iron?](#where-can-i-find-an-iron)
-    - [How to use washing machine](#how-to-use-washing-machine)
+  - [Checking in](#checking-in)
+  - [Parking](#parking)
+  - [How to use the coffee machine](#how-to-use-the-coffee-machine)
+  - [How to use the over](#how-to-use-the-oven)
+  - [How to use the washing machine](#how-to-use-the-washing-machine)
+  - [Where can I find an iron?](#where-can-i-find-an-iron)
+  - [How to open windows?](#how-to-open-windows)
+  - [Cleaning supplies](#cleaning-supplies)
+  - [Checking out](#checking-out)
+- [Prague tips](#prague-tips)
+  - [Useful places nearby](#useful-places-nearby)
+    - [Groceries](#groceries)
+    - [Cafes and restaurants](#cafes-and-restaurants)
+    - [Vyšehrad castle](#vyšehrad-castle)
+  - [Public transport](#public-transport-in-prague)
+    - [Tickets](#tickets)
+  - [Events during your stay](#events-during-your-stay)
 
 # Flat manual
 
