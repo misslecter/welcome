@@ -126,12 +126,42 @@ Check-out time is 11:00 AM.
   - Original Korean food
   - 5 min walk from the flat
 
+### Vyšehrad castle
+
+Make sure to visit [Vyšehrad castle](https://www.praha-vysehrad.cz/) located right next to the flat during your stay.
+
+Vyšehrad Castle is one of Prague's hidden gems, offering a peaceful retreat from the more crowded tourist spots. Located just a short walk from the flat, this historic fortress provides stunning panoramic views of the Vltava River and the city skyline.
+
+Vyšehrad is steeped in legend, often referred to as the mythical birthplace of Prague. The castle grounds are perfect for a leisurely stroll, featuring beautiful gardens, impressive medieval walls, and the striking Basilica of St. Peter and St. Paul.
+
+One of the highlights is the Vyšehrad Cemetery, the final resting place of many famous Czech figures, including composers like Antonín Dvořák and Bedřich Smetana. For history lovers, the castle’s Romanesque rotunda, one of the oldest buildings in Prague, is a must-see.
+
+Whether you're interested in history, architecture, or just want to relax in a serene park setting, Vyšehrad is an excellent spot to explore during your stay. Plus, it’s usually quieter than other major landmarks, making it ideal for a more intimate experience of Prague's rich history.
+
 ## Public transport in Prague
 
+The flat is located very close to the tram and metro stops.
+- [Ostrčilovo náměstí](https://maps.app.goo.gl/MyyCbKjSiqRr6nZf6) - 3 min walk
+  - take a tram to **Výtoň** stop (3 min) to go to the Vltava river. You will find various cafes and bars there, or just a nice place to walk along the river.
+  - take a tram to **Karlovo náměstí** stop (5 min) to go to the Charles square.
+- [Vyšehrad](https://maps.app.goo.gl/He7UDtvTfaG2yMZw9) - 10 min walk
+  - take a metro to **Muzeum** stop (4 min) to go to the top part of the Wenceslas Square.
+  - take a metro to **Hlavní nádraží** stop (5 min) to go to the Prague Main Railway Station.
 
+### Tickets
+
+- [PID lítačka app](https://app.pidlitacka.cz/) - tram, metro, bus
+  - Connection search + ticket purchase for public transport
+- [IDOS app for iOS](https://apps.apple.com/cz/app/j%C3%ADzdn%C3%AD-%C5%99%C3%A1dy-idos/id473503749?l=cs) / [IDOS app for Android](https://play.google.com/store/apps/details?id=cz.mafra.jizdnirady&pcampaignid=web_share) - tram, metro, bus, train
+  - Connection search + ticket purchase for intercity buses and trains
+- [Czech Railways web & app](https://www.cd.cz/) - train
+  - Railway connection search + ticket purchase for trains
+- **Printed tickets** - tram, metro, bus
+  - buy them at any of the metro stations or in small stores at the counter (look for the names "Trafika" or "Potraviny")
+  - **do not forget to mark them inside the metro station or in the tram**
 
 ## Events during your stay
 
-
+Check out local event listings on the [GoOut app](https://goout.net/en/prague/events/), which is perfect for finding concerts, exhibitions, and other events happening in Prague during your stay.
 
 
