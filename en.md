@@ -41,7 +41,7 @@ There are several options to leave your car close to the flat.
 ## How to use the coffee machine
 
 1. Fill the water tank located on the right side of the machine.
-2. Insert a Nespresso capsule into the top slot.
+2. Insert a capsule into the top slot.
 3. Press the button on the back part of the machine for preferred coffee size.
 4. Start the pouring process by closing the capsule slot.
 5. Once the coffee is brewed, the used capsule will be ejected into the internal container.
@@ -84,8 +84,8 @@ Please ensure windows are securely closed before leaving.
 
 ## Cleaning supplies
 
-You can find cleaning supplies in the right bottom shelve next to the entrance. A foldable bucket is located under the
-left bottom shelf.
+You can find cleaning supplies in the right bottom cabinet next to the entrance. A foldable bucket is located under the
+left bottom cabinet.
 
 ## Checking out
 
@@ -97,9 +97,38 @@ Check-out time is 11:00 AM.
 
 # Prague tips
 
-## Groceries, cafes, interesting surroundings
+## Useful places nearby
+
+### Groceries
+- [Lidl](https://maps.app.goo.gl/V3gLbCxRra4RzRdS7)
+  - 7 AM - 9 PM
+  - 5 min walk from the flat
+  - Supermarket with various goodies
+- [Minimarket](https://maps.app.goo.gl/MzUPYBBC8pgBhXky6)
+  - 7 AM - 8 PM 
+  - 3 min walk from the flat
+  - A small store, perfect for getting a water or snacks to go
+- [Penny](https://maps.app.goo.gl/r9ivPm2i9gpMq1XH8)
+  - 7 AM - 9 PM
+  - 14 min walk from the flat
+  - Supermarket with various goodies
+- [DM](https://maps.app.goo.gl/jnpsLVvxFUyhb8Yx8)
+  - 8 AM - 8 PM (9 AM - 8 PM on the weekends)
+  - 14 min walk from the flat
+  - Drugstore
+
+### Cafes and restaurants
+- [Hispaniola Café Restaurant](https://maps.app.goo.gl/zHdp4cFLKTBBUQGm6)
+  - Amazing coffee just 3 minutes from the flat
+  - They also serve breakfast and lunch
+  - Very nice, friendly atmosphere
+- [POCHA Original Korean Restaurant](https://maps.app.goo.gl/TWJknSyB6kyAChVj9)
+  - Original Korean food
+  - 5 min walk from the flat
 
 ## Public transport in Prague
+
+
 
 ## Events during your stay
 
