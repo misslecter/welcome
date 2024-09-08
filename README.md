@@ -1,6 +1,4 @@
-# Welcome!
-
-Dear guests,
+# Dear guests
 
 Welcome to our apartment! We are thrilled to have you here and hope your stay will be both comfortable and memorable.
 
@@ -12,6 +10,8 @@ If you have any questions or need assistance during your stay, don’t hesitate 
 We wish you a wonderful time in Prague!
 
 *Natalia & Anastasia*
+
+❤️ Follow us on [Instagram](https://www.instagram.com/vysehrad.apartment) ❤️
 
 - [Apartment](#apartment)
     - [Checking in](#checking-in)
