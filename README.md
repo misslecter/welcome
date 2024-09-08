@@ -1,10 +1,10 @@
-# Welcome to our flat!
+# Welcome!
 
-- [Flat manual](#flat-manual)
+- [Apartment manual](#apartment-manual)
     - [Checking in](#checking-in)
     - [Parking](#parking)
     - [How to use the coffee machine](#how-to-use-the-coffee-machine)
-    - [How to use the over](#how-to-use-the-oven)
+    - [How to use the oven](#how-to-use-the-oven)
     - [How to use the washing machine](#how-to-use-the-washing-machine)
     - [Where can I find an iron?](#where-can-i-find-an-iron)
     - [How to open windows?](#how-to-open-windows)
@@ -19,7 +19,26 @@
         - [Tickets](#tickets)
     - [Events during your stay](#events-during-your-stay)
 
-# Flat manual
+# Apartment manual
+
+## House rules
+
+We kindly ask all guests to respect the following rules during their stay to ensure a pleasant experience for everyone.
+
+## 1. **Quiet Hours**
+- Quiet hours are from **10:00 PM to 6:00 AM**.
+- Please keep noise to a minimum during these hours, both inside and outside the apartment.
+- Be mindful of neighbors in shared spaces like hallways and elevators.
+
+## 2. **No Smoking**
+- **Smoking is strictly prohibited** inside the apartment.
+- If you wish to smoke, please do so outside in designated areas.
+
+## 3. **General Courtesy**
+- Please be considerate of the furniture and equipment in the apartment.
+- No parties or events allowed.
+
+Thank you for your understanding and cooperation. We hope you enjoy your stay in Prague!
 
 ## Checking in
 
@@ -34,16 +53,18 @@
 
 ## Parking
 
-There are several options to leave your car close to the flat.
+There are several options to leave your car close to the apartment.
 
 - **[Parking P+R](https://www.praguecc.cz/en/parking-pr)**
     - 100 CZK/day + 20 CZK for each commenced hour
+    - The car park is open 24/7
     - Outdoor parking next to the Prague Congress Centre building
-    - 6 minutes walk from the flat
+    - 6 minutes walk from the apartment
 - **[Indoor parking at PCC](https://www.praguecc.cz/en/parking-at-pcc)**
     - 550 CZK/day
+    - The car park is open 24/7
     - Secure indoor parking in the Prague Congress Centre building
-    - 6 minutes walk from the flat
+    - 6 minutes walk from the apartment
 - **Parking on the street**
     - 40 CZK / hour for the maximum period of 23 hours
     - After finding a spot to park, use the parkmachine or
@@ -113,35 +134,35 @@ Check-out time is 11:00 AM.
 ### Groceries
 - [Lidl](https://maps.app.goo.gl/V3gLbCxRra4RzRdS7)
     - 7 AM - 9 PM
-    - 5 min walk from the flat
+    - 5 min walk from the apartment
     - Supermarket with various goodies
 - [Minimarket](https://maps.app.goo.gl/MzUPYBBC8pgBhXky6)
     - 7 AM - 8 PM
-    - 3 min walk from the flat
+    - 3 min walk from the apartment
     - A small store, perfect for getting a water or snacks to go
 - [Penny](https://maps.app.goo.gl/r9ivPm2i9gpMq1XH8)
     - 7 AM - 9 PM
-    - 14 min walk from the flat
+    - 14 min walk from the apartment
     - Supermarket with various goodies
 - [DM](https://maps.app.goo.gl/jnpsLVvxFUyhb8Yx8)
     - 8 AM - 8 PM (9 AM - 8 PM on the weekends)
-    - 14 min walk from the flat
+    - 14 min walk from the apartment
     - Drugstore
 
 ### Cafes and restaurants
 - [Hispaniola Café Restaurant](https://maps.app.goo.gl/zHdp4cFLKTBBUQGm6)
-    - Amazing coffee just 3 minutes from the flat
+    - Amazing coffee just 3 minutes from the apartment
     - They also serve breakfast and lunch
     - Very nice, friendly atmosphere
 - [POCHA Original Korean Restaurant](https://maps.app.goo.gl/TWJknSyB6kyAChVj9)
     - Original Korean food
-    - 5 min walk from the flat
+    - 5 min walk from the apartment
 
 ### Vyšehrad castle
 
-Make sure to visit [Vyšehrad castle](https://www.praha-vysehrad.cz/) located right next to the flat during your stay.
+Make sure to visit [Vyšehrad castle](https://www.praha-vysehrad.cz/) located right next to the apartment during your stay.
 
-Vyšehrad Castle is one of Prague's hidden gems, offering a peaceful retreat from the more crowded tourist spots. Located just a short walk from the flat, this historic fortress provides stunning panoramic views of the Vltava River and the city skyline.
+Vyšehrad Castle is one of Prague's hidden gems, offering a peaceful retreat from the more crowded tourist spots. Located just a short walk from the apartment, this historic fortress provides stunning panoramic views of the Vltava River and the city skyline.
 
 Vyšehrad is steeped in legend, often referred to as the mythical birthplace of Prague. The castle grounds are perfect for a leisurely stroll, featuring beautiful gardens, impressive medieval walls, and the striking Basilica of St. Peter and St. Paul.
 
@@ -151,7 +172,7 @@ Whether you're interested in history, architecture, or just want to relax in a s
 
 ## Public transport in Prague
 
-The flat is located very close to the tram and metro stops.
+The apartment is located very close to the tram and metro stops.
 - Tram stop [Ostrčilovo náměstí](https://maps.app.goo.gl/MyyCbKjSiqRr6nZf6) - 3 min walk
     - take a tram to **Výtoň** stop (3 min) to go to the Vltava river. You will find various cafes and bars there, or just a nice place to walk along the river.
     - take a tram to **Karlovo náměstí** stop (5 min) to go to the Charles square.
