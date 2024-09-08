@@ -1,6 +1,7 @@
 # Welcome!
 
-- [Apartment manual](#apartment-manual)
+- [Apartment manual](#apartment-manual) 
+    - [House rules](#house-rules)
     - [Checking in](#checking-in)
     - [Parking](#parking)
     - [How to use the coffee machine](#how-to-use-the-coffee-machine)
@@ -10,8 +11,8 @@
     - [How to open windows?](#how-to-open-windows)
     - [Cleaning supplies](#cleaning-supplies)
     - [Checking out](#checking-out)
-- [Prague tips](#prague-tips)
-    - [Useful places nearby](#useful-places-nearby)
+- [Useful tips](#useful-tips)
+    - [Places nearby](#places-nearby)
         - [Groceries](#groceries)
         - [Cafes and restaurants](#cafes-and-restaurants)
         - [Vyšehrad castle](#vyšehrad-castle)
@@ -127,9 +128,9 @@ Check-out time is 11:00 AM.
 2. If you used any dishes, please kindly wash them.
 3. **Please don't forget to leave the keys in the lockbox.**
 
-# Prague tips
+# Useful tips
 
-## Useful places nearby
+## Places nearby
 
 ### Groceries
 - [Lidl](https://maps.app.goo.gl/V3gLbCxRra4RzRdS7)
