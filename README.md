@@ -1,6 +1,8 @@
 # Welcome!
 
-- [Apartment manual](#apartment-manual) 
+![IMG_7262-HDR.jpg](assets/IMG_7262-HDR.jpg)
+
+- [Apartment](#apartment-manual) 
     - [House rules](#house-rules)
     - [Checking in](#checking-in)
     - [Parking](#parking)
@@ -11,16 +13,15 @@
     - [How to open windows?](#how-to-open-windows)
     - [Cleaning supplies](#cleaning-supplies)
     - [Checking out](#checking-out)
-- [Useful tips](#useful-tips)
-    - [Places nearby](#places-nearby)
-        - [Groceries](#groceries)
-        - [Cafes and restaurants](#cafes-and-restaurants)
-        - [Vyšehrad castle](#vyšehrad-castle)
-    - [Public transport](#public-transport-in-prague)
-        - [Tickets](#tickets)
-    - [Events during your stay](#events-during-your-stay)
+- [Places nearby](#places-nearby)
+    - [Groceries](#groceries)
+    - [Cafes and restaurants](#cafes-and-restaurants)
+    - [Vyšehrad castle](#vyšehrad-castle)
+  - [Public transport](#public-transport-in-prague)
+      - [Tickets](#tickets)
+  - [Events during your stay](#events-during-your-stay)
 
-# Apartment manual
+# Apartment
 
 ## House rules
 
@@ -128,11 +129,9 @@ Check-out time is 11:00 AM.
 2. If you used any dishes, please kindly wash them.
 3. **Please don't forget to leave the keys in the lockbox.**
 
-# Useful tips
+# Places nearby
 
-## Places nearby
-
-### Groceries
+## Groceries
 - [Lidl](https://maps.app.goo.gl/V3gLbCxRra4RzRdS7)
     - 7 AM - 9 PM
     - 5 min walk from the apartment
@@ -150,7 +149,7 @@ Check-out time is 11:00 AM.
     - 14 min walk from the apartment
     - Drugstore
 
-### Cafes and restaurants
+## Cafes and restaurants
 - [Hispaniola Café Restaurant](https://maps.app.goo.gl/zHdp4cFLKTBBUQGm6)
     - Amazing coffee just 3 minutes from the apartment
     - They also serve breakfast and lunch
@@ -159,7 +158,7 @@ Check-out time is 11:00 AM.
     - Original Korean food
     - 5 min walk from the apartment
 
-### Vyšehrad castle
+## Vyšehrad castle
 
 Make sure to visit [Vyšehrad castle](https://www.praha-vysehrad.cz/) located right next to the apartment during your stay.
 
@@ -171,7 +170,7 @@ One of the highlights is the Vyšehrad Cemetery, the final resting place of many
 
 Whether you're interested in history, architecture, or just want to relax in a serene park setting, Vyšehrad is an excellent spot to explore during your stay. Plus, it’s usually quieter than other major landmarks, making it ideal for a more intimate experience of Prague's rich history.
 
-## Public transport in Prague
+# Public transport in Prague
 
 The apartment is located very close to the tram and metro stops.
 - Tram stop [Ostrčilovo náměstí](https://maps.app.goo.gl/MyyCbKjSiqRr6nZf6) - 3 min walk
@@ -181,7 +180,7 @@ The apartment is located very close to the tram and metro stops.
     - take a metro to **Muzeum** stop (4 min) to go to the top part of the Wenceslas Square.
     - take a metro to **Hlavní nádraží** stop (5 min) to go to the Prague Main Railway Station.
 
-### Tickets
+## Tickets
 
 - [PID lítačka app](https://app.pidlitacka.cz/) - tram, metro, bus
     - Connection search + ticket purchase for public transport
@@ -193,6 +192,6 @@ The apartment is located very close to the tram and metro stops.
     - buy them at any of the metro stations or in small stores at the counter (look for the names "Trafika" or "Potraviny")
     - **do not forget to mark them inside the metro station or in the tram**
 
-## Events during your stay
+# Events during your stay
 
 Check out local event listings on the [GoOut app](https://goout.net/en/prague/events/), which is perfect for finding concerts, exhibitions, and other events happening in Prague during your stay.
